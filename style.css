@@ -81,6 +81,7 @@ footer{
     background-color: #222;
     padding: 2rem;
     color: white;
+    font-size: 1rem;
 }
 
 footer section{
@@ -91,8 +92,6 @@ footer section{
 }
 
 footer p{
-
-    font-size: 0.25rem;
 
     margin: 0;
 
@@ -120,13 +119,3 @@ footer a:hover{
     color: blue;
 
 }
-
-
-
-
-
-
-
-
-
-
